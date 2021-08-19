@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionReplacementShowcase", "ExceptionReplacementShowcase\ExceptionReplacementShowcase.csproj", "{463AA27B-38BD-4489-809D-038D2060DEB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionReplacementShowcase.Core", "ExceptionReplacementShowcase.Core\ExceptionReplacementShowcase.Core.csproj", "{D58EBC6A-7CA1-4DBF-9A2C-6227FE68D610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463AA27B-38BD-4489-809D-038D2060DEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463AA27B-38BD-4489-809D-038D2060DEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463AA27B-38BD-4489-809D-038D2060DEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463AA27B-38BD-4489-809D-038D2060DEB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58EBC6A-7CA1-4DBF-9A2C-6227FE68D610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58EBC6A-7CA1-4DBF-9A2C-6227FE68D610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58EBC6A-7CA1-4DBF-9A2C-6227FE68D610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58EBC6A-7CA1-4DBF-9A2C-6227FE68D610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
